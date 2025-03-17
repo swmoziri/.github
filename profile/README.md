@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&text=[청원고등학교%20SW%20연구반]&desc=Cheongwon%20Software%20Labs&fontAlign=50&fontAlignY=40&fontSize=50&color=0:08ff84,100:cee1cc&fontColor=000000"/>
+    <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&text=[청원고등학교%20SW%20연구반]&desc=Cheongwon%20Study%20Group&fontAlign=50&fontAlignY=40&fontSize=50&color=0:08ff84,100:cee1cc&fontColor=000000"/>
 </h1>
 
 Our **[ SW Study Group ]** is a club where students interested in SW development and programming come together to learn and work on projects.
