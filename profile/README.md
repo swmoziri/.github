@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=[청원고등학교%20SW%20연구반]&desc=Cheongwon%20Software%20Labs&fontAlign=50&fontAlignY=40&fontSize=50&color=0:08ff84,100:cee1cc&fontColor=000000)
-<br>
 
-## 📢 동아리 소개  
-저희 **[ SW 연구반 ]** 은 SW 개발 및 프로그래밍에 관심 있는 학생들이 모여 함께 학습하고 프로젝트를 진행하는 동아리입니다.
+## <\ CW SW LAB \>
+Our **[ SW Study Group ]** is a club where students interested in SW development and programming come together to learn and work on projects.
 ```java
 public class SWLabs{
     public String fieldActivity(){ //활동 분야
