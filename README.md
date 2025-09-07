@@ -6,17 +6,13 @@
     <text x="50" y="60" font-size="50" font-family="Arial" font-weight="bold" fill="#07ff94" text-anchor="start">
       청원고등학교 SW 연구반
     </text>
-
-    <!-- 부제 (왼쪽 정렬) -->
     <text x="50" y="100" font-size="20" font-family="Arial" fill="#07ff94" text-anchor="start">
       CheongWon Software Study Club
     </text>
 
-    <!-- 도넛 (왼쪽) -->
-    <circle cx="120" cy="155" r="25" fill="none" stroke="#07ff94" stroke-width="15"></circle>
+<circle cx="120" cy="155" r="25" fill="none" stroke="#07ff94" stroke-width="15"></circle>
 
-    <!-- 굵은 직사각형 (오른쪽) -->
-    <rect x="150" y="148" width="500" height="15" fill="#07ff94"></rect>
+<rect x="150" y="148" width="500" height="15" fill="#07ff94"></rect>
   </svg>
 
 ## 📢 동아리 소개  
