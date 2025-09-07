@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=[청원고등학교%20SW%20연구반]&desc=Cheongwon%20Software%20Labs&fontAlign=50&fontAlignY=40&fontSize=50&color=0:08ff84,100:cee1cc&fontColor=000000)
+![header]([https://capsule-render.vercel.app/api?type=waving&height=300&text=[청원고등학교%20SW%20연구반]&desc=Cheongwon%20Software%20Labs&fontAlign=50&fontAlignY=40&fontSize=50&color=0:08ff84,100:cee1cc&fontColor=000000](https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=%20청원고등학교%20SW%20연구반%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&section=header&reversal=false&textBg=true&fontColor=07ff94&animation=fadeIn&fontAlignY=20&fontAlign=32&desc=Cheongwon%20Software%20Study%20Group&fontSize=50&descAlignY=41&descAlign=20))
 <br>
 
 ## 📢 동아리 소개  
